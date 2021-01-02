@@ -1,0 +1,83 @@
+body {
+  background-color: orange;
+}
+.col-md-6 {
+ /*  background-color: #cccccc; */
+ background-color: rgb(215, 210, 235);
+
+  border-radius: 10px;
+  margin: 5px;
+  width: 49%;
+}
+
+.top-columns {
+  height: 200px;
+}
+
+.btn-default {
+  margin-top: 15px;
+  float: right;
+
+}
+
+.highlight {
+  background-color: red;
+  color: white;
+}
+
+.account-list {
+  display: inline;
+  cursor: pointer;
+}
+
+.account-list:hover {
+  font-weight: bold;
+}
+
+.account-list:active {
+  font-weight: bold;
+  color: gray;  
+}
+
+#warning {
+  color: red;
+
+}
+
+#sign-in {
+  padding: 10px;
+}
+
+#sign-up-btn, #sign-in-btn {
+  float: right;
+  margin: 5px;
+}
+
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  text-align: center;
+
+}
+
+.btn {
+  display: inline-block;
+  text-decoration: none;
+  color: orange;
+  font-weight: bold;
+ /*  background-color: #538fbe; */
+  background-color: black; 
+  font-size: 14px;
+ /*  border: 2px solid #2d6898; */
+  border: 2px solid white;
+}
+
+.alper{
+  display: inline-block;
+  text-decoration: none;
+  color: orange;
+  font-weight: bold;
+  background-color:black;
+  font-size: 64px;
+  border: 3px solid white;
+  padding: 10px;
+}
